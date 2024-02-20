@@ -1,0 +1,15 @@
+{
+  "Name": "SAMLTest",
+  "Author": "MindMeltMax",
+  "Version": "1.0.0-alpha.1",
+  "Description": "A simple, extensible UI Framework test",
+  "UniqueID": "MindMeltMax.SAMLTest",
+  "EntryDll": "SAMLTest.dll",
+  "MinimumApiVersion": "4.0.0-alpha.20230925",
+  "UpdateKeys": [ "nexus:20250@Test" ],
+  "Dependencies": [
+    {
+      "UniqueID": "MindMeltMax.SAML"
+    }
+  ]
+}
